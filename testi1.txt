@@ -1,0 +1,16 @@
+1;Hello prisioner. You seem to be free.;1;
+2;Yeah. I managed to open my cell and escape.;5;
+3;Isn't it obvious?;9;
+4;It is not your business.;13;
+5;Talkative one, eh? I like you.;5;
+6;I..like you too..;-1;
+7;I don't really care.;-2;
+8;I don't like you.;-3;
+9;Smartass, huh? That attitude may get you in troubles.;9;
+10;I am sorry.;-1;
+11;I am prepared.;-2;
+12;I do what ever I want.;-3;
+13;You are rude earthling. I'm done with you;13;
+14;Goodbye then.;-1;
+15;You are just tiny robot.;-2;
+16;What ever.;-3;
